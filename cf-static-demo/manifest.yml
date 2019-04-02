@@ -5,3 +5,4 @@ applications:
   instances: 1
   # Add your name/initials to make the hostname unique
   host: demo1
+  buildpack: staticfile_buildpack
